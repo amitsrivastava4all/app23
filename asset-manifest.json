@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.64c15820.chunk.js",
-    "main.js.map": "/static/js/main.64c15820.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.93b363cb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.93b363cb.js.map",
-    "static/js/2.63f33d0b.chunk.js": "/static/js/2.63f33d0b.chunk.js",
-    "static/js/2.63f33d0b.chunk.js.map": "/static/js/2.63f33d0b.chunk.js.map",
-    "static/js/3.d03ba849.chunk.js": "/static/js/3.d03ba849.chunk.js",
-    "static/js/3.d03ba849.chunk.js.map": "/static/js/3.d03ba849.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.63f33d0b.chunk.js.LICENSE.txt": "/static/js/2.63f33d0b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "https://amitsrivastava4all.github.io/app23/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "https://amitsrivastava4all.github.io/app23/static/js/main.64c15820.chunk.js",
+    "main.js.map": "https://amitsrivastava4all.github.io/app23/static/js/main.64c15820.chunk.js.map",
+    "runtime-main.js": "https://amitsrivastava4all.github.io/app23/static/js/runtime-main.c48d074b.js",
+    "runtime-main.js.map": "https://amitsrivastava4all.github.io/app23/static/js/runtime-main.c48d074b.js.map",
+    "static/js/2.63f33d0b.chunk.js": "https://amitsrivastava4all.github.io/app23/static/js/2.63f33d0b.chunk.js",
+    "static/js/2.63f33d0b.chunk.js.map": "https://amitsrivastava4all.github.io/app23/static/js/2.63f33d0b.chunk.js.map",
+    "static/js/3.d03ba849.chunk.js": "https://amitsrivastava4all.github.io/app23/static/js/3.d03ba849.chunk.js",
+    "static/js/3.d03ba849.chunk.js.map": "https://amitsrivastava4all.github.io/app23/static/js/3.d03ba849.chunk.js.map",
+    "index.html": "https://amitsrivastava4all.github.io/app23/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "https://amitsrivastava4all.github.io/app23/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.63f33d0b.chunk.js.LICENSE.txt": "https://amitsrivastava4all.github.io/app23/static/js/2.63f33d0b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://amitsrivastava4all.github.io/app23/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93b363cb.js",
+    "static/js/runtime-main.c48d074b.js",
     "static/js/2.63f33d0b.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.64c15820.chunk.js"
